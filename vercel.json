@@ -2,6 +2,7 @@
   "routes": [
     { "src": "/terms", "dest": "/terms.html" },
     { "src": "/test",  "dest": "/test.html" },
+    { "src": "/start",  "dest": "/start.html" },
 
     { "handle": "filesystem" },
     { "src": "/(.*)", "dest": "/index.html" }
