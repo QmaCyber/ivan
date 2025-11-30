@@ -27,9 +27,9 @@ const p = [
   {
     id: 1,
     type: "mcq",
-    text: "Ofelia Zepeda’s research suggests that ease of decision making may be linked to communication between two brain regions, the prefrontal cortex and the parietal cortex. Individuals tend to be more decisive if the information flow between these regions is increased, whereas they make choices more slowly when information flow is ____.",
+    text: "Работает?",
     question: "Which choice completes the text with the most logical and precise word or phrase?",
-    choices: ["reduced", "evaluated", "determined", "acquired"]
+    choices: ["Да", "Пизда", "Нет", "Минет"]
   },
   {
     id: 2,
