@@ -602,13 +602,7 @@ const p = [
                                         {
 								className: "text-md text-black text-center",
 								children: [
-                                                "On test day, you won’t be able to move on to the next module until time expires.", (0, i.jsx)("br",
-                                                {}),
-                                                "For these practice questions, you can click ", (0, i.jsx)("b",
-                                                {
-									children: "Next"
-                                                }),
-                                                " when you’re ready to move on."
+
                                             ]
                                         }), (0, i.jsxs)("div",
                                         {
