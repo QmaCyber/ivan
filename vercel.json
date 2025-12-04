@@ -4,12 +4,12 @@
     { "src": "/terms", "dest": "/terms.html" },
     
     { "src": "/test",  "dest": "/test.html" },
-    { "src": "/test2",  "dest": "/test.html" },
+    { "src": "/test2",  "dest": "/test2.html" },
 
     { "src": "/break",  "dest": "/break.html" },
 
-    { "src": "/test3",  "dest": "/test.html" },
-    { "src": "/test4",  "dest": "/test.html" },
+    { "src": "/test3",  "dest": "/test3.html" },
+    { "src": "/test4",  "dest": "/test4.html" },
     
 
     { "src": "/transit",  "dest": "/transit.html" },
