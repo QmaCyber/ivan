@@ -4,7 +4,7 @@
 			"use strict";r.d(t, {
 				w: () => s
 			});
-			let n = ["Ivan Ivanov",];
+			let n = ["Ivan Ivanov", "Alen Alymzhan"];
 
 			function s(e, t) {
 				if(!e || !t) return !1;
